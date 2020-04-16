@@ -1,4 +1,4 @@
-![TL](banner.png)
+![TL](banner-2.png)
 ## Projetos 
 1. [Guia Completo JAVA](https://techlipe.github.io/Guia-Completo-Elastic-Stack/)
 2. [Guia Completo Spring](https://techlipe.github.io/Guia-Completo-Elastic-Stack/)
