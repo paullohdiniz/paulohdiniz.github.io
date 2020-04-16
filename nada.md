@@ -1,3 +1,3 @@
 | [Home](https://paullohdiniz.github.io/projetos) |
 
-![TP](banner-tl.png)
+![TL](banner-tl.png)
